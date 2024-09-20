@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **back-end projects**
 
-- 👨‍💻 All of my projects are available at [aaa](aaa)
+- 👨‍💻 All of my projects are available at https://exquisite-seahorse-4d7adc.netlify.app/
 
 - 💬 Ask me about **html,css,react,js,tailwindcss,javavsript**
 
