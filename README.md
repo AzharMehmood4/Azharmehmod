@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azhar Mehmood</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **back-end developing**
+- 🔭 I’m currently working on **Front-end developing**
 
 - 🌱 I’m currently learning **back-end projects**
 
